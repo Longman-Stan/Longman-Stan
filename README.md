@@ -5,4 +5,4 @@ parsers, games, simulations excite me the most(that is when it works, but I usua
 
 I'm currently learning about artificial intelligence and machine learning at the Politehnica University of Bucharest.
 
-Please reach to me at lad.lsc2008@gmail.com!
+Please reach to me at vlad.lsc2008@gmail.com!
